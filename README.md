@@ -15,14 +15,6 @@ Python 3.x
 Discord.py (or another framework depending on what you’re using)
 A Discord account with access to the Developer Portal
 Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/discord-bot.git
-Navigate to the project directory:
-bash
-Copy code
-cd discord-bot
 Install the required dependencies:
 bash
 Copy code
